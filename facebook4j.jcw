@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>facebook4j</label>
+	</settings>
+	<users>
+		<user>
+			<path>facebook4j.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PostsFromPageExtractor\PostsFromPageExtractor.jcp</path>
+		</project>
+	</projects>
+</workspace>

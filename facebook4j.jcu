@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>PostsFromPageExtractor</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>PostsFromPageExtractor</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>PostsFromPageExtractor\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>PostsFromPageExtractor\src\PostsFromPageExtractor.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
