@@ -27,7 +27,7 @@ public static void main(String[] args) throws FacebookException {
     // Get an access token from: 
     // https://developers.facebook.com/tools/explorer
     // Copy and paste it below.
-    String accessTokenString = "EAACEdEose0cBAIC9lYHSX6PKcJnfAcWZAl0IS46gZB52pDQMPs2QSx0P5qNWoiwDUBRQd26QIsiRUAUFdjKfuaHkvlXrKAZAGElZC7U4FiDDZAhAu0m9zr4swjLFtvWreJz3Xa12HI4tHN6iGu7kok9uf4B3bJU3KpeQgYTrlcWMgHmuZAV1L5OLmAr5CZBtekZCAZCAmaA2BUwZDZD";
+    String accessTokenString = "EAACdetwZCU7IBACCufI0PdpDfyZAfdzql1LILwSwwgP91h8M3LXgZAMKbWOQ1ZBpABbZCEnjukpasXbiV6ZClZB0TxQXNbC4ZBPrCEUviwZC1KuwKlPCwZA6xhbmZB1wfXdwSLHuibatG0zPlYXZB5TZCnGqTZBFoRNx8Wfj9uWskHqmWm6VhIk8NXgyN75K6J2pge9RZCZBjc9TdZCMnJAZDZD";
     AccessToken at = new AccessToken(accessTokenString);
     // Set access token.
     facebook.setOAuthAccessToken(at);
@@ -38,7 +38,7 @@ public static void main(String[] args) throws FacebookException {
     // https://developers.facebook.com/tools/explorer
 
     // Set limit to 25 feeds.
-    ResponseList<Post> feeds = facebook.getFeed("2029518470397534",
+    ResponseList<Post> feeds = facebook.getFeed("2179376332078413",
             new Reading().limit(25));
 
         // For all 25 feeds...
